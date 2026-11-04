@@ -1,0 +1,10 @@
+name: dynamic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - scipy=1.17
+  - pandas=3.0
+  - matplotlib=3.10
+  - arviz=0.22
